@@ -271,6 +271,15 @@
       <time datetime="2019-05-06T23:46:59.477Z" itemprop="datePublished">2019-05-07</time>
 </a>
 
+ 
+    <a href="/2019/05/07/hello-world/#comments" title="查看评论">
+        <i class="fa fa-comments-o" aria-hidden="true"></i>
+        <span class="count-comment"></span>
+        
+        
+            <span class="disqus-comment-count" data-disqus-identifier="2019/05/07/hello-world/"></span>
+        
+    </a>
 
     </div>
   
@@ -385,6 +394,22 @@
 
     
 
+    
+        <script id="dsq-count-scr" src="//user-6.disqus.com/count.js" async></script>
+        <script>
+            if ($(".left-col").is(":visible")) {
+                var $disqusCount = $(".disqus-comment-count");
+                $disqusCount.bind("DOMNodeInserted", function(e) {
+                    var num = $(this).text().replace(/[^0-9]/ig,"");
+                    if (num > 0) {
+                        $(this).siblings(".count-comment").text(num);
+                    }
+                    $(this).remove();
+                })
+            } else {
+                $(".disqus-comment-count").remove();
+            }
+        </script>
      
 
 
