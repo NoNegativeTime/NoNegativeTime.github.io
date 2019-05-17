@@ -102,7 +102,7 @@ pre {
 }
 
 code {
-    padding: 1px 5px;
+    padding: 10px 5px;
     font-family: Inconsolata, Monaco, Consolas, 'Courier New', Courier, monospace;
     font-size: 0.91rem;
     color: #e96900;
@@ -155,7 +155,7 @@ mark {
 }
 
 .card .card-image img {
-    border-radius: 5px 5px 0 0;
+    border-radius: 8px 8px 0 0;
 }
 
 .container .row {
@@ -696,7 +696,7 @@ article .card {
 }
 
 article .card-image {
-    background-color: #222;
+    background-color: rgb(234,234,234);
 }
 
 article .card-image img {
