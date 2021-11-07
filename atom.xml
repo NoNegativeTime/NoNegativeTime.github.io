@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-10-27T16:53:01.175Z</updated>
+  <updated>2021-11-07T04:22:43.361Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,50 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://example.com/2021/11/07/JavaMemoryModel.png/"/>
+    <id>http://example.com/2021/11/07/JavaMemoryModel.png/</id>
+    <published>2021-11-07T04:21:37.578Z</published>
+    <updated>2021-11-07T04:22:43.361Z</updated>
+    
+    <content type="html"><![CDATA[<p>Java Simple Memory Analysis</p><p><img src="/medias/BoKe/JavaMemoryModel.png" alt="java内存模型分析图"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Java Simple Memory Analysis&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/medias/BoKe/JavaMemoryModel.png&quot; alt=&quot;java内存模型分析图&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://example.com/2021/11/07/JavaSimpleMemoryAnalysis/"/>
+    <id>http://example.com/2021/11/07/JavaSimpleMemoryAnalysis/</id>
+    <published>2021-11-07T03:09:47.880Z</published>
+    <updated>2021-11-07T03:39:16.565Z</updated>
+    
+    <content type="html"><![CDATA[<p>Java Simple Memory Analysis</p><p><img src="/medias/BoKe/JavaSimpleMemoryAnalysis.jpg" alt="java简单内存分析"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Java Simple Memory Analysis&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/medias/BoKe/JavaSimpleMemoryAnalysis.jpg&quot; alt=&quot;java简单内存分析&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>

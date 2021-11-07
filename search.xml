@@ -4,6 +4,32 @@
   
     
     <entry>
+      <title></title>
+      <link href="/2021/11/07/JavaMemoryModel.png/"/>
+      <url>/2021/11/07/JavaMemoryModel.png/</url>
+      
+        <content type="html"><![CDATA[<p>Java Simple Memory Analysis</p><p><img src="/medias/BoKe/JavaMemoryModel.png" alt="java内存模型分析图"></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/2021/11/07/JavaSimpleMemoryAnalysis/"/>
+      <url>/2021/11/07/JavaSimpleMemoryAnalysis/</url>
+      
+        <content type="html"><![CDATA[<p>Java Simple Memory Analysis</p><p><img src="/medias/BoKe/JavaSimpleMemoryAnalysis.jpg" alt="java简单内存分析"></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2021/10/28/hello-world/"/>
       <url>/2021/10/28/hello-world/</url>
